@@ -620,14 +620,14 @@
       )
     )
   )
-  (symbol "xmhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "x3213mhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "x" (at 0 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "xmhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz" (at 0 3.81 0)
+    (property "Value" "x3213mhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "xmhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz" (at 0 0 0)
+    (property "Footprint" "x3213mhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz/datasheet.pdf" (at 0 0 0)
@@ -642,7 +642,7 @@
     (property "ki_fp_filters" "Crystal*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "xmhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz_0_1"
+    (symbol "x3213mhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz_0_1"
       (rectangle (start -1.143 2.54) (end 1.143 -2.54)
         (stroke (width 0.3048) (type default))
         (fill (type none))
@@ -698,7 +698,7 @@
         (fill (type none))
       )
     )
-    (symbol "xmhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz_1_1"
+    (symbol "x3213mhz12_electronic_crystal_3213_3_pin_ground_pin_2_12_mega_hertz_1_1"
       (pin passive line (at -3.81 0 0) (length 1.27)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -713,14 +713,14 @@
       )
     )
   )
-  (symbol "xmhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "x3213mhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "x" (at 0 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "xmhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz" (at 0 3.81 0)
+    (property "Value" "x3213mhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "xmhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz" (at 0 0 0)
+    (property "Footprint" "x3213mhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz/datasheet.pdf" (at 0 0 0)
@@ -735,7 +735,7 @@
     (property "ki_fp_filters" "Crystal*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "xmhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz_0_1"
+    (symbol "x3213mhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz_0_1"
       (rectangle (start -1.143 2.54) (end 1.143 -2.54)
         (stroke (width 0.3048) (type default))
         (fill (type none))
@@ -791,7 +791,7 @@
         (fill (type none))
       )
     )
-    (symbol "xmhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz_1_1"
+    (symbol "x3213mhz16_electronic_crystal_3213_3_pin_ground_pin_2_16_mega_hertz_1_1"
       (pin passive line (at -3.81 0 0) (length 1.27)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -806,14 +806,14 @@
       )
     )
   )
-  (symbol "xmhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "x3213mhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "x" (at 0 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "xmhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz" (at 0 3.81 0)
+    (property "Value" "x3213mhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "xmhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz" (at 0 0 0)
+    (property "Footprint" "x3213mhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz/datasheet.pdf" (at 0 0 0)
@@ -828,7 +828,7 @@
     (property "ki_fp_filters" "Crystal*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "xmhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz_0_1"
+    (symbol "x3213mhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz_0_1"
       (rectangle (start -1.143 2.54) (end 1.143 -2.54)
         (stroke (width 0.3048) (type default))
         (fill (type none))
@@ -884,7 +884,7 @@
         (fill (type none))
       )
     )
-    (symbol "xmhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz_1_1"
+    (symbol "x3213mhz8_electronic_crystal_3213_3_pin_ground_pin_2_8_mega_hertz_1_1"
       (pin passive line (at -3.81 0 0) (length 1.27)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
